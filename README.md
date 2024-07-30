@@ -11,19 +11,18 @@ This project is a replica of the [Sundown Studio website](https://www.sundown-st
 - [Swiper](https://swiperjs.com/) - For image sliders and carousels
   
 ## Project Structure
-sundown-studio-replica/
-│
-├── index.html
-├── css/
-│   ├── style.css
-│   └── locomotive-scroll.css
-├── js/
-│   ├── script.js
-│   ├── locomotive-scroll.min.js
-│   └── swiper-bundle.min.js
-│   
-└── assets/
-└── images/
+sundown-studio-replica<br>
+│<br>
+├── index.html<br>
+├── css<br>
+│   ├── style.css<br>
+│   └── locomotive-scroll.css<br>
+├── js<br>
+│   ├── script.js<br>
+│   ├── locomotive-scroll.min.js<br>
+│   └── swiper-bundle.min.js<br>
+└── assets<br>
+└── images<br>
 
 ## Acknowledgements
 - Original design by [Sundown Studio](https://www.sundown-studio.com/)
