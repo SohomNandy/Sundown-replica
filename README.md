@@ -1,6 +1,6 @@
 # Sundown Studio Site Replica
 This project is a replica of the [Sundown Studio website](https://www.sundown-studio.com/), created using HTML, CSS, and JavaScript along with a few frameworks and libraries.<br>
-This project is still under critical development as numerous sections of the project are incomplete.
+This project is still under critical development as numerous sections of the project are incomplete.<br>
 Tutorial Link: https://youtu.be/6VbETTS67rM?si=muUItdJ5Bqdbni3m
 
 ## Technologies Used
