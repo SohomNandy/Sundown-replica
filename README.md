@@ -28,4 +28,4 @@ sundown-studio-replica<br>
 - Original design by [Sundown Studio](https://www.sundown-studio.com/)
 - Icons from [Font Awesome](https://fontawesome.com/)
 - Fonts from [Google Fonts](https://fonts.google.com/)
-- - Tutorial by [Sheriyans Coding School](https://www.youtube.com/@sheryianscoding) on YouTube
+- Tutorial by [Sheriyans Coding School](https://www.youtube.com/@sheryianscoding) on YouTube
